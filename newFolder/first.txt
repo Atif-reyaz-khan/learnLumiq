@@ -1,1 +1,5 @@
+<<<<<<< HEAD
     no hard
+=======
+no hard to be done
+>>>>>>> 906c9ea859f60ffb2dc311e3e402a5099bd1a1db
